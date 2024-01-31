@@ -12,6 +12,6 @@ T:\Program\JetBrains\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=De
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Found SFML 2.6.1 in D:/SFML-2.6.1/lib/cmake/SFML
--- Configuring done (2.6s)
+-- Configuring done (4.3s)
 -- Generating done (0.0s)
 -- Build files have been written to: T:/Workspace/rouby-game/cmake-build-debug
