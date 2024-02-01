@@ -28,4 +28,5 @@ add_custom_command(TARGET RobiGame POST_BUILD
         "D:/SFML-2.6.1/bin/openal32.dll"
         $<TARGET_FILE_DIR:RobiGame>)
 
-add_library(Genetic SHARED include/Genetic.h include/Genetic.cpp)
+add_library(Genetic SHARED include/Genetic.h include/Genetic.cpp
+)
